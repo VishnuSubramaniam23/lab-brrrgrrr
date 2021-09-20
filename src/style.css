@@ -230,3 +230,6 @@ body {
 	font-family: Nunito Sans;
 	font-style: normal;
 }
+.hide{
+    display: none;
+}
